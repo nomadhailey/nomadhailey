@@ -7,3 +7,4 @@
 - React.js, Redux, Redux-saga
 - Scss, styled-components
 - typescript
+- git, github
