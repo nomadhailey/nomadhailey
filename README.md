@@ -4,7 +4,9 @@
 🌱 skills
 
 - HTML, CSS, Javascript ES6+
-- React.js, Redux, Redux-saga
-- Scss, styled-components
-- typescript
-- git, github
+- React.js(hook), React Native
+- TypeScript
+- RESTful API, Apollo Client, GraphQL, Redux, Redux-saga 
+- styled-components, emotion, Scss
+- Zeplin, figma
+- git, github, slack, notion
