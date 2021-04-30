@@ -6,7 +6,5 @@
 - HTML, CSS, Javascript ES6+
 - React.js(hook), React Native
 - TypeScript
-- RESTful API, Apollo Client, GraphQL, Redux, Redux-saga 
+- RESTful API, Apollo Client, GraphQL, MobX, Redux, Redux-saga 
 - styled-components, emotion, Scss
-- Zeplin, figma
-- git, github, slack, notion
